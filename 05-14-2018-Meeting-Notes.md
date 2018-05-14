@@ -18,7 +18,7 @@ Summarized last meeting. Everyone's interests included:
 
 * Nick: P4 as a tool
 * Nate: PL for networking
-* Noa: applications
+* Noa: applications and architectures
 * Robert: apps and languages 
 * Stephen: using P4 to teach networking
 
@@ -95,8 +95,3 @@ Do we need a P4 Education Working Group?
 
 
 Let's reconvene towards the end of the summer
-
-
-
-
-
