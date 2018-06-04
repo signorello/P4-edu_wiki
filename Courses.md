@@ -16,7 +16,7 @@ TBD, nothing at the moment
 
 **Length of the course:** 6 lecture hours, 10 (5x2) lab hours. Students are expected to do their project outside lab hours.
 
-**Relation to P4:** Practical work using P4-NetFPGA.
+**Relation to P4:** Practical work (i.e. project) using P4-NetFPGA.
 
 **Website:** [http://www.cl.cam.ac.uk/teaching/1718/P51](http://www.cl.cam.ac.uk/teaching/1718/P51)
 
