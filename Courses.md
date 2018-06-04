@@ -14,13 +14,13 @@ TBD, nothing at the moment
 
 **Target audience and prerequisites:** Graduate students (Masters and PhD level), also taken not-for-credit by postdocs. Prerequisites include an undergraduate course in networking, good working knowledge of C/C++, ECAD, Unix.
 
-**Length of the course:** 6 lecture hours, 10 (5x2) lab hours. 
+**Length of the course:** 6 lecture hours, 10 (5x2) lab hours. Students are expected to do their project outside lab hours.
 
 **Relation to P4:** Practical work using P4-NetFPGA.
 
 **Website:** [http://www.cl.cam.ac.uk/teaching/1718/P51](http://www.cl.cam.ac.uk/teaching/1718/P51)
 
-**Available material:** All the course materials are available [On the course's website].(http://www.cl.cam.ac.uk/teaching/1718/P51/materials.html)
+**Available material:** All the course's materials are available [On the course's website].(http://www.cl.cam.ac.uk/teaching/1718/P51/materials.html)
 
 **Status:** In 2017/18 the course was delivered using NetFPGA (not P4-NetFPGA), as the platform (PTA) wasn't ready.
 Lab 1-2 require rewriting, may also add another programmable devices lectures, instead of (e.g.,) latency.
