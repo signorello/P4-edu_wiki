@@ -3,6 +3,13 @@ Attendees
 ======
 Eder, Arturo, Srivani, Noa, Robert, Andy
 
+Action Items
+======
+* All - Complete your assigned sections in the getting started page
+* Robert/Noa - Configure access to Wiki
+* All - Add project ideas to project page
+* Srivani - Curate videos
+
 Meeting Agenda:
 ======
 * Advertising
@@ -60,10 +67,3 @@ Promote interesting projects?
 *  Programming contest? How to advertise "interesting" projects, that are not necessarily publishable
     * Can we collect pointers to interesting projects?
     * Long term sponsor a hack-a-thon
-    * TODO: can we post tofino-code?
-
-*  TODO: How to provide access to wiki pages?
-* Agenda for next time?
-    * Many versions of the SIGCOMM tutorials, etc. 
-    *  We should curate these. Point to the current ones.
-    *  Update on action items from last time
