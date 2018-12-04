@@ -10,6 +10,19 @@
 
 **Difficulty:** Medium
 
+***
+
+**Title:** Extend the P4 to eBPF compiler back-end
+
+**Description:** The P4 programming language has emerged as a programming language for network dataplanes. The eBPF language is a safe virtual machine language that can execute safely within the linux kernel. The existing P4 to eBPF compiler does not support many important P4 language features. This project would extend the capabilities of this back-end.
+
+**Expected Outcome:** Support for more P4 language constructs.
+
+**Skills (Required / Preferred):**  C++11, basic networking knowledge, ideally some knowledge of compiler technologies
+
+**Possible Mentors:**  Mihai Budiu – VMware Research
+
+**Difficulty:** Medium
 
 ***
 
