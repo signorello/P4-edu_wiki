@@ -2,11 +2,11 @@
 
 **Description:** Code rot is always an issue in maintained environments. With the P4 language and tools continuously evolving, we are seeking to build code test infrastructure that will allow to maintain the P4 reference environment, with a focus on materials curated by the education workgroup, over time. 
 
-**Expected Outcome:** TBD
+**Expected Outcome:** Continuous test infrastructure for tutorial code.
 
-**Skills (Required / Preferred):** TBD
+**Skills (Required / Preferred):** Travis CI, Docker, P4, Python
 
-**Possible Mentors:** TBD
+**Possible Mentors:** Robert Soulé -- USI
 
 **Difficulty:** Medium
 
