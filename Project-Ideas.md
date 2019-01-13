@@ -42,6 +42,34 @@
 
 ***
 
+**Title:** Online P4 Tutorial
+
+**Description:** Create an online P4 tutorial, based on existing P4 materials, that will provide through a web interface the ability to compile P4 programs and run bmv2 simulations. The code will be compiled and run on a backend server.
+
+**Expected Outcome:** A website running the P4 tutorial online
+
+**Skills :** P4, python, web design, (+TBD)
+
+**Possible Mentors:** Noa Zilberman
+
+**Difficulty:** Medium
+
+***
+
+**Title:** P4-NetFPGA on F1
+
+**Description:** P4-NetFPGA is a workflow that enabled compiling P4 programs to run on the open-source NetFPGA platform. Still, the NetFPGA platform is not accessible to everyone. This project will port the P4-NetFPGA workflow to run in AWS's F1 environment, including the design flow and reference designs. 
+
+**Expected Outcome:** A complete port of P4-NetFPGA to AWS F1.
+
+**Skills:** FPGA design and good knowledge of verilog (required), python (required), P4 (preferred), previous experience working with AWS/F1 (preferred).
+
+**Possible Mentors:** Noa Zilberman
+
+**Difficulty:** Hard
+
+***
+
 ## Template
 
 **Title:**
