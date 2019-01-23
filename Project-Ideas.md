@@ -70,6 +70,20 @@
 
 ***
 
+**Title:** NS3 P4 Simulation Platform
+
+**Description:** NS3 is a discrete event network simulator. The NS3-Bmv2 project has integrated the P4 behavioral model v2 into NS3, thus adding support for P4 programs. This project will extend P4 support within NS3 by implementing new P4 architectures and adding support for P4Runtime controllers. Students will also be expected to produce documentation detailing functionality and usage.
+
+**Expected Outcome:** NS3 support for more P4 architectures.
+
+**Skills (Required / Preferred):** C++ experience (required), basic networking knowledge (required), technical writing skills (required), NS3 experience (preferred), knowledge of compiler technologies (preferred)
+
+**Possible Mentors:** Stephen Ibanez
+
+**Difficulty:** Medium
+
+***
+
 ## Template
 
 **Title:**
