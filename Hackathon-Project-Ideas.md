@@ -14,6 +14,14 @@ The projects are roughly divided to projects that enable people to practice P4 a
 
 ***
 
+**Title:** Improving NetCache and NetChain
+
+**Description:** Improve the quality of the open source code of [NetCache](https://github.com/netx-repo/netcache-p4) and  [NetChain](https://github.com/netx-repo/netchain-p4).
+
+**Type (P4 Practice / Community Contribution):** Both!
+
+***
+
 ## Template
 
 **Title:**
