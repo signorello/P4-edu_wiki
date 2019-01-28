@@ -28,6 +28,16 @@ Goal 2: Add and improve documentation.
 
 ***
 
+
+**Title:** Dynamic programming in P4
+
+**Description:** Implement a dynamic programming exercise in P4, like subset string matching.
+
+**Type:** P4 Practice 
+
+***
+
+
 ## Template
 
 **Title:**
