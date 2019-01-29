@@ -4,13 +4,29 @@ The projects are roughly divided to projects that enable people to practice P4 a
 
 ***
 
+**Title:** Multi-target applications
+
+**Description:** One of the limitations of existing P4 code is that different architectures require different code. The goal of this project will be to take some existing P4 applications, written for a given architecture, and port it to other architectures. Recommended architectures include v1model, PSA and SimpleSumeSwitch, but all open-source architectures can be used. The code can then be used for educational purposes.
+
+**Type (P4 Practice / Community Contribution):** Mainly P4 practice, but for a community contribution.
+
+***
+
 **Title:** P4Fun
 
 **Description:** Implement a classic game in P4. Examples include tic-tac-toe, Battleship, and others.
 
 **Type (P4 Practice / Community Contribution):** P4 practice. 
 
+***
 
+**Title:** PSA bug fixes
+
+**Description:** The architecture workgroup requests assistance in fixing some of the bugs currently documented in [its issues list](https://github.com/p4lang/p4-spec/issues). Bug fixes are especially encouraged for PSA.
+
+**Type (P4 Practice / Community Contribution):** Community contribution
+
+**Proposed by:** Calin Cascaval 
 
 ***
 
