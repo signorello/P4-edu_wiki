@@ -53,6 +53,40 @@ Goal 2: Add and improve documentation.
 
 ***
 
+**Title:** Using latest protobuf 
+
+**Description:**  Users may have apps on their machine which use higher version of gRPC/protobuf which messes up p4c/P4Runtime. This project will try and have p4c and P4Runtime use as latest a protobuf version as possible. 
+
+**Type:** Community Contribution
+
+**Proposed by:** Hemant
+
+***
+
+**Title:** Tests for nested structs
+
+**Description:** nested struct support is new in p4c p4runtime generation and PI server. The goal of this project is to develop more tests in p4c and PI.
+
+**Type:** Community Contribution
+
+**Proposed by:** Hemant
+
+***
+
+**Title:** More bug fixes
+
+**Description:** various bug fixes requested by community members:
+
+* [Support emit for struct in bmv2](https://github.com/p4lang/p4c/issues/1659)
+
+* [Flexsai/p4](https://github.com/opencomputeproject/SAI/issues/896)
+
+**Type:** Community Contribution
+
+**Proposed by:** Hemant
+
+
+***
 
 ## Template
 
