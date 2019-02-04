@@ -48,7 +48,7 @@
 
 **Expected Outcome:** A website running the P4 tutorial online
 
-**Skills :** P4, python, web design, (+TBD)
+**Skills :** P4, python, web design
 
 **Possible Mentors:**  Andrew W Moore / Noa Zilberman -- University of Cambridge
 
