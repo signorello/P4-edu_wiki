@@ -84,8 +84,6 @@
 
 ***
 
-## Template
-
 **Title:**
 
 **Description:** (2-5 sentences)
@@ -97,3 +95,29 @@
 **Possible Mentors:**
 
 **Difficulty:** Easy/Medium/Hard
+
+***
+
+## Template
+
+**Title:**  Inspecting P4 Program Execution
+
+**Description:** Debugging P4 programs is tricky because of a lack of
+visibility into running program. There is no such thing as a print
+statement to inspect values at different points in the program. You can
+reconstruct what the program did by going through BMV2 logs, which is 
+confusing and tedious. This tool will make debugging easier by parsing
+the output from BMV2 (logs and PCAPs), and displaying the timeline of
+events (activated tables, executed actions, updated values) as packets
+travel through the pipeline.
+
+**Expected Outcome:** A debugging tool that integrates with BMV2 (and possibly Wireshark)
+
+**Skills (Required / Preferred):** basic networking knowledge (required), P4 experience (preferred), C++
+experience (preferred), Python (preferred)
+
+**Possible Mentors:** Theodore Jepsen
+
+**Difficulty:** Medium
+
+***
