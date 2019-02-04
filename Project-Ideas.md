@@ -120,6 +120,26 @@ experience (preferred), Python (preferred)
 
 ***
 
+**Title:** A benchmark suite for P4 virtualization
+
+**Description:** Virtualizing P4-programmable data-planes enables slicing a P4-based network infrastructure
+between multiple programs while optimizing the use of the P4 target resources. Existing solutions span
+from full virtualization (e.g., a P4 hypervisor) to lightweight virtualization techniques (e.g., based on code
+merging). This project aims to produce a test suite for P4 virtualization solutions, to evaluate the
+concurrent execution of different P4 programs, including standard L2 and L3 forwarding planes and
+unconventional data-plane behaviors.
+
+**Expected Outcome:** a benchmark for P4 virtualization solutions.
+
+**Skills (Required / Preferred):** P4 (preferred), python or C++ (required), basic networking knowledge
+(required), familiarity with Linux-based dev-environments (required)
+
+**Possible Mentors:** Salvatore Signorello and Fernando Ramos -- University of Lisbon
+
+**Difficulty:** Medium
+
+***
+
 ## Template
 
 **Title:**
@@ -136,4 +156,4 @@ experience (preferred), Python (preferred)
 
 ***
 
-Additional mentors: Fernando Ramos -- University of Lisbon, Theophilus Benson -- Brown University
+Additional mentors: Costin Raiciu - UPB, Theophilus Benson -- Brown University
