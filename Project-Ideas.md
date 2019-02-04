@@ -20,7 +20,7 @@
 
 **Skills (Required / Preferred):**  C++11, basic networking knowledge, ideally some knowledge of compiler technologies
 
-**Possible Mentors:**  Mihai Budiu – VMware Research
+**Possible Mentors:**  Mihai Budiu -– VMware Research
 
 **Difficulty:** Medium
 
@@ -36,7 +36,7 @@
         Required: 3+ years of C++ coding.
 	Preferred: Compiler architecture understanding, IR transformations and traversals. Computer networking understanding.
 
-**Possible Mentors:**  Antonin Bas, Han Wang.
+**Possible Mentors:**  Antonin Bas, Han Wang -- Barefoot Networks
 
 **Difficulty:** Completing the entire project is Medium, there are a number of sub-projects that are easy.
 
@@ -50,7 +50,7 @@
 
 **Skills :** P4, python, web design, (+TBD)
 
-**Possible Mentors:** Noa Zilberman
+**Possible Mentors:**  Andrew W Moore / Noa Zilberman -- University of Cambridge
 
 **Difficulty:** Medium
 
@@ -64,7 +64,7 @@
 
 **Skills:** FPGA design and good knowledge of verilog (required), python (required), P4 (preferred), previous experience working with AWS/F1 (preferred).
 
-**Possible Mentors:** Noa Zilberman
+**Possible Mentors:**  Andrew W Moore / Noa Zilberman / NetFPGA Cambridge -- University of Cambridge
 
 **Difficulty:** Hard
 
@@ -78,7 +78,7 @@
 
 **Skills (Required / Preferred):** C++ experience (required), basic networking knowledge (required), technical writing skills (required), NS3 experience (preferred), knowledge of compiler technologies (preferred)
 
-**Possible Mentors:** Stephen Ibanez
+**Possible Mentors:** Stephen Ibanez -- Stanford University
 
 **Difficulty:** Medium
 
@@ -100,7 +100,21 @@ travel through the pipeline.
 **Skills (Required / Preferred):** basic networking knowledge (required), P4 experience (preferred), C++
 experience (preferred), Python (preferred)
 
-**Possible Mentors:** Theodore Jepsen
+**Possible Mentors:** Theodore Jepsen -- USI
+
+**Difficulty:** Medium
+
+***
+
+**Title:** P4-NetFPGA Test Infrastructure
+
+**Description:** The P4-NetFPGA code environment is continuously evolving. We are seeking to build a code test infrastructure that will allow to maintain the P4-NetFPGA reference environment, with a focus on the P4-NetFPGA reference designs, over time. 
+
+**Expected Outcome:** Continuous test infrastructure for P4-NetFPGA code.
+
+**Skills (Required / Preferred):** Jenkins CI, Python, P4 (preferred), verilog (preferred)
+
+**Possible Mentors:** Andrew W Moore -- University of Cambridge
 
 **Difficulty:** Medium
 
@@ -121,3 +135,5 @@ experience (preferred), Python (preferred)
 **Difficulty:** Easy/Medium/Hard
 
 ***
+
+Additional mentors: Fernando Ramos -- University of Lisbon, Theophilus Benson -- Brown University
