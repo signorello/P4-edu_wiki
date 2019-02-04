@@ -84,22 +84,6 @@
 
 ***
 
-**Title:**
-
-**Description:** (2-5 sentences)
-
-**Expected Outcome:**
-
-**Skills (Required / Preferred):**
-
-**Possible Mentors:**
-
-**Difficulty:** Easy/Medium/Hard
-
-***
-
-## Template
-
 **Title:**  Inspecting P4 Program Execution
 
 **Description:** Debugging P4 programs is tricky because of a lack of
@@ -119,5 +103,21 @@ experience (preferred), Python (preferred)
 **Possible Mentors:** Theodore Jepsen
 
 **Difficulty:** Medium
+
+***
+
+## Template
+
+**Title:**
+
+**Description:** (2-5 sentences)
+
+**Expected Outcome:**
+
+**Skills (Required / Preferred):**
+
+**Possible Mentors:**
+
+**Difficulty:** Easy/Medium/Hard
 
 ***
