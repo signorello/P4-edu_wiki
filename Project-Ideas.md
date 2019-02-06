@@ -44,7 +44,7 @@
 
 **Title:** Online P4 Tutorial
 
-**Description:** Create an online P4 tutorial, based on existing P4 materials, that will provide through a web interface the ability to compile P4 programs and run bmv2 simulations. The code will be compiled and run on a backend server.
+**Description:** Create an online P4 tutorial, based on existing P4 materials, that will provide through a web interface the ability to compile P4 programs and run bmv2 simulations. The code will be compiled and run on a backend server. Preferably, feedback will be returned to the student / user, such as syntax error highlighting, correction walk-through.
 
 **Expected Outcome:** A website running the P4 tutorial online
 
@@ -140,6 +140,26 @@ unconventional data-plane behaviors.
 
 ***
 
+**Title:** Merging P4 programs
+
+**Description:** One approach to potentially host and/or run multiple P4 programs in parallel on P4-capable
+devices is to identify and merge similar portions of code of different P4 programs into a single
+intermediate representation of the merged code. This project aims to design a front-end module for P4-
+compilers (e.g., p4c-bmv2) to produce merged intermediate representations for back-end compilation.
+
+**Expected Outcome:** a software tool that produces a single intermediate representation out of multiple P4
+programs.
+
+**Skills (Required / Preferred):** P4 (preferred), python or C++ (required), basic networking knowledge
+(required), familiarity with Linux-based dev-environments (required), some knowledge of compiler
+technologies (preferred).
+
+**Possible Mentors:** Theophilus Benson - Brown University / Salvatore Signorello and Fernando Ramos – University of Lisbon
+
+**Difficulty:** Medium
+
+***
+
 ## Template
 
 **Title:**
@@ -156,4 +176,4 @@ unconventional data-plane behaviors.
 
 ***
 
-Additional mentors: Costin Raiciu - UPB, Theophilus Benson -- Brown University
+Additional mentors: Costin Raiciu - UPB
