@@ -2,6 +2,17 @@
 This project contains ideas for projects that can be completed during a one-day hackathon.
 The projects are roughly divided to projects that enable people to practice P4 and projects that contribute to the P4 community, and are not necessarily written in P4.
 
+
+***
+
+**Identified Common Themes**:
+
+* Packet Steering
+
+* Understanding different targets
+
+* Bug fixing
+
 ***
 
 **Title:** Multi-target applications
