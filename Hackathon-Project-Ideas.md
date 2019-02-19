@@ -88,6 +88,46 @@ Goal 2: Add and improve documentation.
 
 ***
 
+**Title:** Network forwarding based on credential in packet.
+
+**Type (P4 Practice / Community Contribution):** P4 Practice 
+
+**Proposed by:** Mathias Kolehmainen
+
+
+***
+
+**Title:** Network coding or packet steering for distributed MIMO
+
+**Type (P4 Practice / Community Contribution):** P4 Practice
+
+**Proposed by:** Michael Sherman
+
+
+
+***
+
+**Title:** In-network security-violation detection
+
+**Type (P4 Practice / Community Contribution):** P4 Practice
+
+**Proposed by:** Bingzhe Liu
+
+
+
+***
+
+**Title:** Split/Merge Payload
+
+**Description:** Implement a version of Split/Merge Payload. This is in VNF context where packet headers are processed separately from the payload. Consider a Firewall VNF deployed on the server. Here, ToR switch will only forward packet headers to the Firewall and keep the packet payload on ToR buffer. The payload is merged back to the packet once processed header comes back from the server. We have an NSDI poster on this with title "Cutting Packet Fat in Shallow VNF Chain Processing".
+
+**Type (P4 Practice / Community Contribution):** P4 Practice
+
+**Proposed by:** Nodir	Kodirov
+
+
+***
+
 ## Template
 
 **Title:**
