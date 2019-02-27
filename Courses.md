@@ -40,9 +40,9 @@ TBD, nothing at the moment
 
 **Relation to P4:** Practical work (i.e. project) using P4-NetFPGA.
 
-**Website:** [http://www.cl.cam.ac.uk/teaching/1718/P51](http://www.cl.cam.ac.uk/teaching/1718/P51)
+**Website:** [http://www.cl.cam.ac.uk/teaching/current/P51](http://www.cl.cam.ac.uk/teaching/current/P51)
 
-**Available material:** All the course's materials are available [on the course website](http://www.cl.cam.ac.uk/teaching/1718/P51/materials.html).
+**Available material:** All the course's materials are available [on the course website](http://www.cl.cam.ac.uk/teaching/current/P51/materials.html).
 
 **Status:** In 2017/18 the course was delivered using NetFPGA (not P4-NetFPGA), as the platform (PTA) wasn't ready.
 Lab 1-2 require rewriting, may also add another programmable devices lecture, instead of (e.g.,) latency.
