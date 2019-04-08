@@ -2,7 +2,7 @@
 
 Helping you to get started with P4!
 
-This page will be updated shortly
+This page will be updated shortly, meanwhile, please refer to [The markdown version of this page.](https://github.com/p4lang/education/blob/master/GettingStarted.md)
 
 * Getting started page
 * Pointers to download code
