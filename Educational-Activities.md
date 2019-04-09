@@ -16,5 +16,6 @@ This page summarizes P4 education activities, starting May 2018.
 * [P4 European Workshop](https://p4.org/events/2018-09-24-p4-eu-workshop/), co-located with ICNP, September 2018, Cambridge UK
 
 ## Other
+* P4 Education Wiki and Getting started materials
 * GSoC application (Not accepted)
 
