@@ -44,8 +44,7 @@ TBD, nothing at the moment
 
 **Available material:** All the course's materials are available [on the course website](http://www.cl.cam.ac.uk/teaching/current/P51/materials.html).
 
-**Status:** In 2017/18 the course was delivered using NetFPGA (not P4-NetFPGA), as the platform (PTA) wasn't ready.
-Lab 1-2 require rewriting, may also add another programmable devices lecture, instead of (e.g.,) latency.
+**Status:** The course is currently (Lent/2019) running using P4->NetFPGA and SDNet 2018.2. 
 
 **Wishful thinking:** Creating an online P4-NetFPGA tutorial that compiles programs, like the NetFPGA verilog tutorial used for P33 (Building an Internet Router).
 
