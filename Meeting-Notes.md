@@ -6,6 +6,8 @@ Information is advertised on  P4 education mailing list and on the [P4 workgroup
 
 List of P4 Education Workgroup meeting notes:
 
+[May 20, 2019](https://github.com/p4lang/education/wiki/05-20-2019-Meeting-Notes)
+
 [April 08, 2019](https://github.com/p4lang/education/wiki/04-08-2019-Meeting-Notes)
 
 [March 25, 2019](https://github.com/p4lang/education/wiki/03-25-2019-Meeting-Notes)
