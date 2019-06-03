@@ -44,9 +44,27 @@ TBD, nothing at the moment
 
 **Available material:** All the course's materials are available [on the course website](http://www.cl.cam.ac.uk/teaching/current/P51/materials.html).
 
-**Status:** The course is currently (Lent/2019) running using P4->NetFPGA and SDNet 2018.2. 
+**Status:** The course last ran in Lent 2019 using P4->NetFPGA and SDNet 2018.2. 
 
 **Wishful thinking:** Creating an online P4-NetFPGA tutorial that compiles programs, like the NetFPGA verilog tutorial used for P33 (Building an Internet Router).
+
+### Data Plane Programming
+
+**University:** Karlstads Universitet
+
+**Aims of the course:** A review of data plane aspects, and teaching how to program data planes using programming language such as P4. By the end of the course students will: 1) know the main theories behind data plane programming, 2) be able to apply P4 to problems such as data center load balancing, network monitoring, control and caching, 3) understand and critically reflect about the benefits and limitations of e.g. P4 language, and 4) be able to propose new data plane design and implementation aspetcs.
+
+**Target audience and prerequisites:** Advanced level students and professionals from a wide variety of computer networking and telecommunication area as well as public organizations.
+
+**Length of the course:** 19 weeks
+
+**Relation to P4:** Teaching programming in P4
+
+**Website:** [https://hhk3.kau.se/dpp/](https://hhk3.kau.se/dpp/)
+
+**Available material:** All the course's materials, including videos
+
+**Status:** The course last ran in Winter 2019.
 
 ## Template
 Please use the template below to describe a course
