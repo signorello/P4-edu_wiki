@@ -66,6 +66,24 @@ TBD, nothing at the moment
 
 **Status:** The course last ran in Winter 2019.
 
+### Advanced Computer Networks (PRD1819)
+
+**University:** University of Lisbon
+
+**Aims of the course:** To acquaint students with the state-of-the-art in networking research by reading and discussing fundamental networking papers (the vast majority from recent editions of SIGCOMM and NSDI). In addition, to gain experience with network programming using state-of-the-art research platforms (mininet, ONOS SDN controller, and P4). 
+
+**Target audience and prerequisites:** computer science graduates with background in computer networking. 
+
+**Length of the course:** 12 weeks (on average), 3.5h in class per week
+
+**Relation to P4:** a 2h crash-course in P4, a 1h hands-on lab session, 1 programming assignment in P4 (to be extended)
+
+**Website:**
+
+**Available material:** description and templates of, and solutions to the P4 programming assignments available at [https://github.com/netx-ulx/P4-tools.git](https://github.com/netx-ulx/P4-tools.git)
+
+**Status:** the last edition was offered in the 2nd semester of the 2018/2019 academic year.
+
 ## Template
 Please use the template below to describe a course
 
